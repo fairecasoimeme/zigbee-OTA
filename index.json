@@ -683,17 +683,6 @@
     "originalUrl": "https://otau.meethue.com/storage/ZGB_100B_0116/5ce84476-ad41-4b8b-a5ae-52d0e8df749a/100B-0116-02002F08-Switch-EFR32MG13.zigbee"
   },
   {
-    "fileName": "100B-0117-01001D0C-ConfLightBLE-ModuLum-EFR32MG21.zigbee",
-    "fileVersion": 16784652,
-    "fileSize": 420784,
-    "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Hue/100B-0117-01001D0C-ConfLightBLE-ModuLum-EFR32MG21.zigbee",
-    "imageType": 279,
-    "manufacturerCode": 4107,
-    "sha512": "b17faa044694f3b9a3f28653ed0a42441797f60dd390a9507eed8d4baa95368ee4ca9accef6698b0092cc196c99c89129372e2dcba8383473f13d522b02488f1",
-    "otaHeaderString": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-    "originalUrl": "https://otau.meethue.com/storage/ZGB_100B_0117/a8a50281-4075-4d41-928d-85aec9f4ef33/100B-0117-01001D0C-ConfLightBLE-ModuLum-EFR32MG21.zigbee"
-  },
-  {
     "fileName": "100B-0119-02002D02-Switch-EFR32MG22.zigbee",
     "fileVersion": 33565954,
     "fileSize": 183866,
@@ -7414,5 +7403,16 @@
     "manufacturerName": [
       "LiXee"
     ]
+  },
+  {
+    "fileName": "100B-0117-01001D0E-ConfLightBLE-ModuLum-EFR32MG21.zigbee",
+    "fileVersion": 16784654,
+    "fileSize": 421738,
+    "originalUrl": "https://firmware.meethue.com/storage/100b-117/16784654/0e638cfe-8013-47f1-80c5-9766e7c8e46a/100B-0117-01001D0E-ConfLightBLE-ModuLum-EFR32MG21.zigbee",
+    "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Hue/100B-0117-01001D0E-ConfLightBLE-ModuLum-EFR32MG21.zigbee",
+    "imageType": 279,
+    "manufacturerCode": 4107,
+    "sha512": "1b201b43dcbba828e3ea125f73ed1c7ddd579b413910f01ff3c6a69e3fa0a98b6bf8be705789690a30587b24267ba5d3776ccde301becff4b3bc3b8e0538fdbd",
+    "otaHeaderString": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
   }
 ]
